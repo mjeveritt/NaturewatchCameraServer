@@ -1,6 +1,6 @@
-![Build Image](https://github.com/interactionresearchstudio/NaturewatchCameraServer/workflows/Build%20Image/badge.svg)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/interactionresearchstudio/NaturewatchCameraServer)
-![GitHub all releases](https://img.shields.io/github/downloads/interactionresearchstudio/NaturewatchCameraServer/total)
+![Build Image](https://github.com/mjeveritt/NaturewatchCameraServer/workflows/Build%20Image/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mjeveritt/NaturewatchCameraServer)
+![GitHub all releases](https://img.shields.io/github/downloads/mjeveritt/NaturewatchCameraServer/total)
 
 # NaturewatchCameraServer
 
@@ -15,7 +15,7 @@ Part of the My Naturewatch project by the Interaction Research Studio, in collab
 
 # How to install
 
-To use the image, download the lastest zip build from [Releases](https://github.com/interactionresearchstudio/NaturewatchCameraServer/releases)
+To use the image, download the lastest zip build from [Releases](https://github.com/mjeveritt/NaturewatchCameraServer/releases)
 
 Uncompress and burn this to an SD card. We recommend using [Balena Etcher](https://www.balena.io/etcher/) for this.
 
